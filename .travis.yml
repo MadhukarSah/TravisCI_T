@@ -6,9 +6,9 @@ script: python3 test_fruits.py
 #safelist
 branches:
      only:
-     -main
+     - main
      
 #blocklsit
 branches:
     except:
-     -opt
+     - opt
