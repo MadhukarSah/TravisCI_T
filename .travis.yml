@@ -6,7 +6,7 @@ script: python3 test_fruits.py
 #safelist
 branches:
      only:
-     -master
+     -main
      
 #blocklsit
 brancher:
