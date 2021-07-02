@@ -9,6 +9,6 @@ branches:
      -main
      
 #blocklsit
-brancher:
-    only:
+branches:
+    except:
      -opt
